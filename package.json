@@ -1,0 +1,10 @@
+{
+  "name": "tone-js-experiment",
+  "description": "Fooling around with Tone.js",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "tone": "^13.4.9",
+    "webpack": "^4.28.1"
+  }
+}
